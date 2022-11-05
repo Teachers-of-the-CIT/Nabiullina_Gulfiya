@@ -1,0 +1,11 @@
+﻿<Application x:Class="NabiullinaG_Demo.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:NabiullinaG_Demo"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="TextBlock" >
+            <Setter Property="FontFamily" Value="Candara"></Setter>
+        </Style>
+    </Application.Resources>
+</Application>
